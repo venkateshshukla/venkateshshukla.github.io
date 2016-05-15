@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://venkateshshukla.github.io
+title: Venkatesh Shukla
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
