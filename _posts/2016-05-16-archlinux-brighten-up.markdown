@@ -32,6 +32,7 @@ There you go, mundane method to change screen brightness.
 
 Cheers
 
-####Refer
+
+Refer
 
 1. [https://wiki.archlinux.org/index.php/backlight](https://wiki.archlinux.org/index.php/backlight)
