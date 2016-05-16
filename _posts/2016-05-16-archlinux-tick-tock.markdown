@@ -1,6 +1,6 @@
 ---
 published: true
-title: ArchLinux - xclock
+title: ArchLinux - tick tock
 layout: post
 ---
 We all need time. And we all feel the need to keep looking at a clock.
