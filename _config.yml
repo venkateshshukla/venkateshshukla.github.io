@@ -3,6 +3,7 @@ pygments: true
 markdown: kramdown
 url: http://venkateshshukla.github.io
 title: Venkatesh Shukla
-tagline: A log of everyday life
-description: My awesome new site
+tagline: Code ramblings
+description: Code ramblings
 paginate: 5
+google_analytics: UA-88866714-2
