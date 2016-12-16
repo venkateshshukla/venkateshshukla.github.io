@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Java 8 - Functional interface with lambda
+category: programming
+tags: [java, functional-interface, lambda]
 ---
 
 Java 8 introduces lots of new elements in the java syntax like lambda and functional interfaces.
