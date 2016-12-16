@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Java 8 - Functional interface with lambda
-category: programming
 tags: [java, functional-interface, lambda]
 ---
 
